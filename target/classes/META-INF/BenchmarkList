@@ -1,0 +1,2 @@
+JMH S 39 com.jayesh.mq.benchmark.BrokerBenchmark S 69 com.jayesh.mq.benchmark.jmh_generated.BrokerBenchmark_consume_jmhTest S 7 consume S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 39 com.jayesh.mq.benchmark.BrokerBenchmark S 69 com.jayesh.mq.benchmark.jmh_generated.BrokerBenchmark_produce_jmhTest S 7 produce S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
